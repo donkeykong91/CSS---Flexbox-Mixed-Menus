@@ -7,3 +7,9 @@
 .nav-mixed .social-menu ul {
   background: aqua;
 }
+
+.nav-mixed {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
