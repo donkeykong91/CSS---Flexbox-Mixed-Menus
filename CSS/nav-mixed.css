@@ -1,1 +1,9 @@
 /* Styles for mixed menu (drop-down + social) */
+
+.nav-mixed .multi-level-nav ul {
+  background: tomato;
+}
+
+.nav-mixed .social-menu ul {
+  background: aqua;
+}
